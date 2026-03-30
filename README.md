@@ -1,21 +1,21 @@
 # Concretizing-Our-Understanding-of-Learning-with-a-Computational-Model-of-ICAP
 
-This repository provides example knowledge graphs and a demonstration of how they are used in our paper’s simulation setup. It is intended to help readers better understand how the article materials were represented as knowledge graphs and how those graphs were incorporated into our implementation.
+# Knowledge Graph Examples and ABICAP Implementation
 
-The core ABICAP model is available in the original repository here:
-https://github.com/sinaris76/ABICAP
+This repository provides example knowledge graphs and code illustrating how they were used in our paper's simulation setup. It is intended to help readers understand how article materials were represented as knowledge graphs and how those graphs were incorporated into our implementation.
 
-About ABICAP
+The original ABICAP model can be found here:  
+[ABICAP repository](https://github.com/sinaris76/ABICAP)
 
-ABICAP was introduced in the publication:
+## Background
 
-Rismanchian, S., and Doroudi, S.
-"A Computational Model for the ICAP Framework: Exploring Agent-Based Modeling as an AIED Methodology."
+ABICAP was introduced in the following publication:
+
+**Rismanchian, S., and Doroudi, S.**  
+*A Computational Model for the ICAP Framework: Exploring Agent-Based Modeling as an AIED Methodology.*  
 Proceedings of the International Conference on Artificial Intelligence in Education, July 2023, pp. 792 to 797.
 
-This repository includes:
+## What this repository contains
 
-example knowledge graphs used in our study
-code demonstrating how these knowledge graphs were implemented in simulation
-examples of how ABICAP can be adapted to a specific experimental context
-materials intended to make the modeling process more transparent and reproducible
+- Example knowledge graphs used in our study
+- Code demonstrating how these knowledge graphs were implemented in simulation
