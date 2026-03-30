@@ -1,4 +1,4 @@
-# Concretizing-Our-Understanding-of-Learning-with-a-Computational-Model-of-ICAP
+# ABICAP-Replication
 
 # Knowledge Graph Examples and ABICAP Implementation
 
