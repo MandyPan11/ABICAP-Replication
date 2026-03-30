@@ -14,5 +14,5 @@ International Conference on Artificial Intelligence in Education, July 2023, pp.
 
 ## What this repository contains
 
-- Example knowledge graphs used in our study
-- Code demonstrating how these knowledge graphs were implemented in simulation
+- Original article (The kidneys) by Motz et al.(2025) that is replicated in our study (please refer to original_article_with_KCs.md)
+- Code demonstrating how these knowledge graphs were implemented in simulation (please refer to knowledge_graph_kidney_LLM.py)
